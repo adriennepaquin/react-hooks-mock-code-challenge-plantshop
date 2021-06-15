@@ -34,9 +34,13 @@ The base URL for your backend is: `http://localhost:6001`
 As a user:
 
 1. When the app starts, I can see all plants.
+DONE
 2. I can add a new plant to the page by submitting the form.
+DONE
 3. I can mark a plant as "sold out".
+DONE
 4. I can search for plants by their name and see a filtered list of plants.
+DONE
 
 ### Endpoints for Core Deliverables
 
